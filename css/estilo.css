@@ -1,0 +1,36 @@
+body{
+
+    background-image: url(https://64.media.tumblr.com/70d8f50120081c0ad476b21ce7148906/78f8590cea52ced4-ca/s1280x1920/84016dac621711d98143cf1afc0cce33d22a5c39.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+h1 {
+ 
+color: red;
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+
+}
+
+h3 {
+
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.corpo{
+
+    text-align: center;
+}
+
+.container{
+
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
